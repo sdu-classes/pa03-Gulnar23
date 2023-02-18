@@ -1,1 +1,2 @@
-Please open `INSTRUCTIONS.md` file.
+Bakyt Gulnar
+ID: 220103099
